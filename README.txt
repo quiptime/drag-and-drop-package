@@ -1,6 +1,7 @@
 Drag and drop package
 
-  Dieses Paket enthält alle notwendigen Dateien um in Drupal 6 draggable Blocks verwenden zu können.
+  Dieses Paket enthält alle notwendigen Module und Dateien um in Drupal 6 draggable Blocks verwenden 
+  zu können.
 
 INSTALLATION
 
@@ -12,4 +13,5 @@ INSTALLATION
        - JQuery Interface Sortable Demos
        - jQuery Update
      aktivieren.
-  3. In der Administration im Bereich "Jquery Drag Drop admin settings", admin/settings/jquery_drag_drop, die Blockregionen (Sidebars) festlegen.
+  3. In der Administration im Bereich "Jquery Drag Drop admin settings", admin/settings/jquery_drag_drop, 
+     die Blockregionen (Sidebars) festlegen.
