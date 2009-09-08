@@ -67,7 +67,7 @@ function _jquery_drag_drop_js() {
     drupal_add_js(<<<EOT
 $(document).ready(
   function () {
-    $('$sidebar[$i]').Sortable(
+    $("$sidebar[$i]").Sortable(
       {
         accept : 'block',
         onchange : function (obj) {
